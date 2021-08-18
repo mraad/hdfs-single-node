@@ -33,6 +33,7 @@
         <name>dfs.webhdfs.enabled</name>
         <value>true</value>
     </property>
+    <!--
     <property>
         <name>dfs.client.read.shortcircuit</name>
         <value>true</value>
@@ -41,4 +42,5 @@
         <name>dfs.domain.socket.path</name>
         <value>/tmp/dn_socket</value>
     </property>
+    -->
 </configuration>
