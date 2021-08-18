@@ -39,6 +39,6 @@
     </property>
     <property>
         <name>dfs.domain.socket.path</name>
-        <value>/var/lib/hadoop-hdfs/dn_socket</value>
+        <value>/tmp/dn_socket</value>
     </property>
 </configuration>
