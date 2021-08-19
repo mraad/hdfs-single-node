@@ -10,5 +10,6 @@ $HADOOP_HOME/sbin/start-dfs.sh
 
 hdfs dfs -mkdir /user
 hdfs dfs -mkdir /user/hduser
+hdfs --daemon start httpfs
 
 bash
